@@ -1,5 +1,5 @@
 ## COM300-FINAL
-#Clasificación y Aplicación Automática de Iluminación en Blender
+# Clasificación y Aplicación Automática de Iluminación en Blender
 
 Este proyecto surge de la necesidad de simplificar y acelerar el proceso de iluminación en proyectos de diseño y animación digital. Partiendo de una imagen de referencia, LightMood clasifica automáticamente el tipo de iluminación usando un modelo de inteligencia artificial externo y aplica esa información para crear un ambiente lumínico coherente dentro de Blender. Así, el artista puede conseguir resultados realistas y creativos sin ajustar manualmente cada luz o color de fondo.
 
